@@ -1,6 +1,5 @@
-# nur-packages-template
+# huggy's personal NUR packages
 
-**A template for [NUR](https://github.com/nix-community/NUR) repositories**
 
 ## Setup
 
@@ -33,5 +32,5 @@ Uncomment this if you use travis:
 
 [![Build Status](https://travis-ci.com/<YOUR_TRAVIS_USERNAME>/nur-packages.svg?branch=master)](https://travis-ci.com/<YOUR_TRAVIS_USERNAME>/nur-packages)
 -->
-[![Cachix Cache](https://img.shields.io/badge/cachix-<YOUR_CACHIX_CACHE_NAME>-blue.svg)](https://<YOUR_CACHIX_CACHE_NAME>.cachix.org)
+[![Cachix Cache](https://img.shields.io/badge/cachix-hix-blue.svg)](https://hix.cachix.org)
 
