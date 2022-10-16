@@ -1,9 +1,7 @@
 { lib
 , stdenv
 , fetchFromGitHub
-, autoconf
-, automake
-, libtool
+, autoreconfHook
 , ...
 } @ args:
 
@@ -18,9 +16,7 @@ stdenv.mkDerivation rec {
   });
 
   nativeBuildInputs = [
-    autoconf
-    automake
-    libtool
+    autoreconfHook
   ];
   enableParallelBuilding = true;
 
