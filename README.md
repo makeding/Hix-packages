@@ -1,4 +1,4 @@
-# huggy's personal NUR packages
+# huggy's personal NUR packages(HIX)
 
 
 ## Setup
